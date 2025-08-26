@@ -1,0 +1,16 @@
+name: LLM-Engineers-Handbook
+id: ari:cloud:compass:bdf4963f-3273-4d8e-874b-75692acaab0b:component/906bc8f7-67e7-49e2-b9a9-109e7f0cbdc1/80413d53-f7e6-4f5f-9e88-c2cb6559d1a3
+description: 'The LLM''s practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices'
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/test-org-compass/LLM-Engineers-Handbook
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
